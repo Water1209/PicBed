@@ -1,7 +1,7 @@
 {
 	"classic_id": "cnet-niv",
 	"title": "圣经",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"audio_url_template": "https://www.wordproaudio.net/bibles/app/audio/4/{volume_id}/{chapter}.mp3",
 	"structure": [
 		{
