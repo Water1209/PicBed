@@ -6,8 +6,8 @@
 			"title": "和合本圣经",
 			"author": "N/A",
 			"description": "中文标准译本，包含新旧约全书。音频来源 wordproaudio.net。",
-			"cover_image": "https://gitee.com/your-username/your-repo/raw/master/images/bible_cover.png",
-			"config_url": "https://gitee.com/your-username/your-repo/raw/master/bible.json"
+			"cover_image": "https://gitee.com/wangdenuan/picstorage/raw/master/lingtingjingdian/bible_cover.jpg",
+			"config_url": "https://gitee.com/wangdenuan/picstorage/raw/master/lingtingjingdian/bible.json"
 		}
 	]
 }
